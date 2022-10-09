@@ -4,8 +4,7 @@
 In this assignment, I built a web application that scrapes various websites for data related to a Mission to Mars and displayed the information in a single HTML page.  
 - The site contains:
   - a responsive home page with a button to collect data
-  - visualization pages for key concepts
-  - clickable images for easy navigation
+  - information scraped from 4 different websites and stored in Mongo DB
 
 - Key technologies include:
   - BootStrap js library
