@@ -13,10 +13,7 @@ Analyzing the weather data is great but, how can we show off our hard work?  In 
   - Jupyter Notebook with Pandas
   - Github Pages
 
-
-- Visit the final form here: 
-  - https://sajeanpage.github.io/module_11_web_design_challenge/
-# ![banner](https://github.com/sajeanpage/module_11_web_design_challenge/blob/main/assets/images/weather_banner.PNG)
+# ![banner](Missions_to_Mars/images/mission.PNG)
 
 - References
   - OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from https://openweathermap.org
